@@ -4,6 +4,8 @@
 ## Descrição
 Nesta atividade tivemos de fazer vários exercícios com objetivos diferentes para exercitar nosso conhecimento em funções em JavaScript.
 
+Função funciona!
+
 ## Linguagens utilizadas:
 
 - HTML
